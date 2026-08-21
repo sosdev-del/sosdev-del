@@ -68,13 +68,12 @@ A cross-platform (Android/iOS) app where talented individuals build professional
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosdev-del&show_icons=true&hide_border=true&bg_color=0D1117&title_color=52B420&icon_color=52B420&text_color=FFFFFF" height="165" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=sosdev-del&hide_border=true&background=0D1117&stroke=52B420&ring=52B420&fire=FFA611&currStreakLabel=52B420" height="165" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sosdev-del&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF" height="165" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=sosdev-del&hide_border=true&background=0D1117&stroke=52B420&ring=52B420&fire=FFA611&currStreakLabel=52B420&sideLabels=FFFFFF&dates=FFFFFF" height="165" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosdev-del&layout=compact&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF" height="150" alt="langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sosdev-del&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" height="150" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosdev-del&layout=compact&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF&langs_count=8" height="165" alt="langs" />
 </div>
 
 <div align="center">
