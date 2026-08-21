@@ -65,19 +65,45 @@ A cross-platform (Android/iOS) app where talented individuals build professional
 
 ---
 
+## 🏆 GitHub Trophies
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=sosdev-del&theme=discord&no-frame=true&no-bg=true&margin-w=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=sosdev-del&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://trophy.ryglcloud.net/?username=sosdev-del&theme=discord&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="trophies" />
+</picture>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosdev-del&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF" height="165" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=sosdev-del&hide_border=true&background=0D1117&stroke=52B420&ring=52B420&fire=FFA611&currStreakLabel=52B420&sideLabels=FFFFFF&dates=FFFFFF" height="165" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=sosdev-del&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=sosdev-del&hide_border=true&bg_color=FFFFFFFE&title_color=1a1655&text_color=05042E&icon_color=52B420" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sosdev-del&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF" height="165" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sosdev-del&hide_border=true&background=0D1117&stroke=52B420&ring=52B420&fire=FFA611&currStreakLabel=52B420&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sosdev-del&hide_border=true&background=FFFFFF&stroke=52B420&ring=52B420&fire=FFA611&currStreakLabel=1a1655&currStreakNum=05042E&sideLabels=05042E&sideNums=05042E&dates=05042E" />
+    <img src="https://streak-stats.demolab.com?user=sosdev-del&hide_border=true&background=0D1117&stroke=52B420&ring=52B420&fire=FFA611&currStreakLabel=52B420&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="165" alt="streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosdev-del&layout=compact&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF&langs_count=8" height="165" alt="langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sosdev-del&layout=compact&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sosdev-del&layout=compact&hide_border=true&bg_color=FFFFFFFE&title_color=1a1655&text_color=05042E&langs_count=8" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sosdev-del&layout=compact&hide_border=true&bg_color=0D1117&title_color=52B420&text_color=FFFFFF&langs_count=8" height="165" alt="langs" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosdev-del&bg_color=0D1117&color=FFFFFF&line=52B420&point=52B420&area=true&area_color=1a1655&hide_border=true" width="100%" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sosdev-del&bg_color=0D1117&color=FFFFFF&line=52B420&point=52B420&area=true&area_color=1a1655&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sosdev-del&bg_color=FFFFFF&color=05042E&line=52B420&point=1a1655&area=true&area_color=E6F4E6&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosdev-del&bg_color=0D1117&color=FFFFFF&line=52B420&point=52B420&area=true&area_color=1a1655&hide_border=true" width="100%" alt="activity graph" />
+  </picture>
 </div>
 
 ---
